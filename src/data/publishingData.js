@@ -1,9 +1,9 @@
-import bg1 from '../assets/images/bg1.png';
-import bg2 from '../assets/images/bg2.png';
-import bg3 from '../assets/images/bg3.png';
-import bg4 from '../assets/images/bg4.png';
-import bg5 from '../assets/images/bg5.png';
-import bg6 from '../assets/images/bg6.png';
+import bg1 from '../assets/images/bg1.PNG';
+import bg2 from '../assets/images/bg2.PNG';
+import bg3 from '../assets/images/bg3.PNG';
+import bg4 from '../assets/images/bg4.PNG';
+import bg5 from '../assets/images/bg5.PNG';
+import bg6 from '../assets/images/bg6.PNG';
 
 
 export const publishData = [
