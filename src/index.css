@@ -1,0 +1,50 @@
+@import "pretendard/dist/web/static/pretendard.css";
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'pretendard', sans-serif;
+  font-weight: 400;
+  color: rgba(0, 0, 0, .75);
+  background: rgba(163, 191, 166, 0.2);
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  font-family: 'pretendard', sans-serif;
+  font-size: 1.25rem;
+  padding: 8px 24px;
+  border-radius: 50px;
+  background: #80af85;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+@media (max-width: 768px) {
+  button {
+    font-size: 1rem;
+      padding: 7px 20px;
+  }
+}
+
+
+button:hover,
+button.active {
+  background: #105c16;
+}
