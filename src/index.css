@@ -33,13 +33,13 @@ button {
   color: #fff;
   border: none;
   cursor: pointer;
-  transition: all 0.3s;
+  transition: all 0.3s ease;
 }
 
 @media (max-width: 768px) {
   button {
     font-size: 1rem;
-      padding: 7px 20px;
+    padding: 7px 20px;
   }
 }
 
@@ -47,4 +47,6 @@ button {
 button:hover,
 button.active {
   background: #105c16;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(16, 92, 22, 0.2);
 }

@@ -11,12 +11,12 @@ export default function Publishing() {
 
                         <div className="overlay">
                             <div className="info">
-                                {/* <div className="part">
+                                <div className="part">
                                     {item.id !== 1 && (
                                         <p>디자인 {item.info.contribution.design}%  |</p>
                                     )}
                                     <p>퍼블리싱 {item.info.contribution.publish}%</p>
-                                </div> */}
+                                </div>
 
                                 <div className="tech">
                                     {item.tech.map((t) => (

@@ -10,9 +10,9 @@ export default function Hero() {
           <h2>안녕하세요, 신입 웹퍼블리셔 문윤경입니다.</h2>
           <p>기획부터 디자인 그리고 퍼블리싱까지, 사용자의 니즈를 고려하여 편리한 웹사이트를 만듭니다.</p>
         </div>
-        <figure>
+       {/*  <figure>
             <img src={profileImg} alt="프로필이미지" />
-        </figure>
+        </figure> */}
       </div>
     </section>
   )

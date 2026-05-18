@@ -12,7 +12,7 @@ export const publishData = [
     title: '원그로브 웹 페이지',
     img: bg1,
     links: {
-      site: 'https://pengwing110.github.io/clone-coding/',
+      site: 'https://pengwing110.github.io/onegrove/',
       notion: 'https://www.notion.so/348c10231756807d9bc8e16dd6ec009b'
     },
     info: {
@@ -105,7 +105,7 @@ export const publishData = [
         design: 30,
         publish: 30
       },
-      desc: '협업 기반 웹 서비스 프로젝트'
+      desc: '협업 기반 웹 제작 프로젝트'
     },
     tech: ['React', 'CSS']
   }

@@ -16,7 +16,10 @@ export default function Projects() {
                     setVisible(true);
                 }
             },
-            { threshold: 0.3 }
+            {
+                threshold: 0,
+                rootMargin: "0px 0px -10% 0px"
+            }
         );
 
         if (titleRef.current) observer.observe(titleRef.current);
@@ -29,6 +32,7 @@ export default function Projects() {
             <div className="inner">
                 <h1 ref={titleRef}
                     className={visible ? "title show" : "title"}>Projects</h1>
+                <p className='sub-title'>프로젝트 영역은 퍼블리싱 결과물<span>(6개)</span>과 디자인 결과물<span>(포토샵 11개, 피그마 3개)</span>로 구성되어 있습니다.</p>
                 <div>
                     <div className="tab-menu">
                         <button
