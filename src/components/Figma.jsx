@@ -43,7 +43,6 @@ export default function Figma() {
                                 </button>
                             </>
                         )}
-                        <a href={item.prototype} target="_blank">Prototype URL</a>
                     </div>
 
 

@@ -9,7 +9,7 @@ import bg6 from '../assets/images/bg6.PNG';
 export const publishData = [
   {
     id: 1,
-    title: '원그로브 웹 페이지',
+    title: '원그로브 웹 사이트',
     img: bg1,
     links: {
       site: 'https://pengwing110.github.io/onegrove/',
@@ -26,7 +26,7 @@ export const publishData = [
   },
   {
     id: 2,
-    title: 'pages-and-places',
+    title: 'Pages & Places',
     img: bg2,
     links: {
       site: 'https://pengwing110.github.io/Pages-Places/',
@@ -39,7 +39,7 @@ export const publishData = [
       },
       desc: 'Sass를 활용한 웹 UI 구현'
     },
-    tech: ['HTML', 'SCSS', 'JavaScript']
+    tech: ['HTML', 'Sass', 'JavaScript', 'Supabase']
   },
   {
     id: 3,
@@ -71,9 +71,9 @@ export const publishData = [
         design: 100,
         publish: 100
       },
-      desc: 'React를 활용한 웹 페이지 구현'
+      desc: 'React를 활용한 웹 사이트 구현'
     },
-    tech: ['React', 'CSS']
+    tech: ['React', 'CSS', 'JavaScript']
   },
   {
     id: 5,
@@ -90,7 +90,7 @@ export const publishData = [
       },
       desc: '개인정보보호 인식 개선을 위한 캠페인 영상 · 웹'
     },
-    tech: ['HTML', 'CSS', 'JavaScript']
+    tech: ['HTML', 'CSS', 'Premiere Pro']
   },
   {
     id: 6,
@@ -107,6 +107,6 @@ export const publishData = [
       },
       desc: '협업 기반 웹 제작 프로젝트'
     },
-    tech: ['React', 'CSS']
+    tech: ['React', 'CSS', 'JavaScript']
   }
 ];

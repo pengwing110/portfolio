@@ -31,7 +31,6 @@ export const figmaData = [
             style: style1,
 
         },
-        prototype: 'https://www.figma.com/proto/lTKNqthh2KtvbDyYqnbskj/App?node-id=2-195&t=uBYIY8paEhbXuaxe-1&scaling=scale-down&content-scaling=fixed&page-id=2%3A194&starting-point-node-id=2%3A195',
         img: [
             figma1_2, figma1_3
         ],
@@ -45,7 +44,6 @@ export const figmaData = [
             components: component3,
             style: style3,
         },
-        prototype: 'https://www.figma.com/proto/NDuay4sYFvbLpl7Cp2PwcI/%EC%86%8C%EC%85%9C%EC%BB%A4%EB%A8%B8%EC%8A%A4?node-id=74-7484&t=XlyCJ3Hrr7lRPpST-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A4&starting-point-node-id=57%3A129',
         img: [
             figma3_2, figma3_3, figma3_4, figma3_5
         ],
@@ -59,7 +57,6 @@ export const figmaData = [
             components: component2,
             style: style2,
         },
-        prototype: 'https://www.figma.com/proto/3Mkv5tvaiAPtc5e465UNMq/App_Joie?node-id=374-665&t=JrnH3H6OGrcJzwb2-1&scaling=scale-down&content-scaling=fixed&page-id=18%3A3',
         img: [
             figma2_2, figma2_3, figma2_4, figma2_5, figma2_6, figma2_7, figma2_8
         ],
